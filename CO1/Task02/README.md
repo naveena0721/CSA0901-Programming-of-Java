@@ -1,2 +1,1 @@
-This task analyses the Campus Smart-Parking System, identifies candidate classes and their responsibilities, 
-defines business rules and assumptions, and compares object-oriented design with parallel arrays.
+This task explains the selection of Java data types, arrays, type conversion and casting, input methods, and the comparison of different data representations.
